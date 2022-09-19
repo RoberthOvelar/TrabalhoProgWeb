@@ -72,7 +72,7 @@ nav{
 
 .search-box{
     background: #59319b;
-    height: 10px;
+    height: 30px;
     width: 500px;
     padding: 10px;
     border-radius: 40px;
@@ -240,7 +240,7 @@ main{
 
 .main-scroll-div{
     padding-left: 9%;
-    width: 80%;
+    width: 89%;
     height: 100%;
     display: flex;
     align-items: center;
