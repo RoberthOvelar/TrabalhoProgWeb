@@ -198,9 +198,11 @@ main{
 }
 .lateral-bars .left{
     position: absolute;
+    display: flex;
     left: 0px;
     background-color: #d4d4d4;
     width: 13%;
+    min-width: 0%;
     height: 250ch;
     z-index: 10;
     box-shadow: inset -10px 0px 10px #707070;
@@ -208,6 +210,8 @@ main{
 .lateral-bars .right{
     height: 250ch;
     position: absolute;
+    display: flex;
+    min-width: 0%;
     right: 0px;
     width: 15%;
     background-color: #d4d4d4;
